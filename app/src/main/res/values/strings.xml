@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Daily Notes</string>
+    <string name="archive">Archive</string>
+    <string name="settings">Settings</string>
+    <string name="details">Edit (%s)</string>
+    <string name="add_note">Add Note</string>
+    <string name="note_id" translatable="false">noteId</string>
+    <string name="login" translatable="false">Login Screen</string>
+    <string name="username" translatable="false">Email</string>
+    <string name="username_placeholder" translatable="false">example@ex.com</string>
+    <string name="password_placeholder" translatable="false">******</string>
+    <string name="password">password</string>
+    <string name="btn_login" translatable="false">Sign In</string>
+    <string name="create_account" translatable="false">create an account ?</string>
+    <string name="have_account" translatable="false">have an account? logIn</string>
+    <string name="create_account_screen" translatable="false">Create New Account</string>
+    <string name="title">Title</string>
+    <string name="color">Color</string>
+    <string name="date">Date</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="notes">Notes</string>
+    <string name="typeNote">type a note ...</string>
+    <string name="deleteNoteDialogTitle">Warning !!</string>
+    <string name="deleteNoteDialogMessage">Are you sure you want to delete  (%s)?</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="add_note_confirmation_message"> note is added successfully</string>
+    <string name="update_note_confirmation_message"> note is updated successfully</string>
+    <string name="english"> English</string>
+    <string name="deutsch" translatable="false"> Deutsch</string>
+    <string name="language"> Language</string>
+    <string name="chooseLanguage"> choose interface Language</string>
+    <string name="chooseMode"> choose interface Mode</string>
+    <string name="dark_mode"> Dark Mode</string>
+    <string name="contact">Contact us</string>
+    <string name="call_us">Call us</string>
+    <string name="send_email">Send an Email</string>
+    <string name="send_whatsapp" translatable="false">Whats app</string>
+    <string name="send_message" translatable="false">Send SMS</string>
+    <string name="about">About us</string>
+    <string name="share_app">Share the App</string>
+    <!--  work manager !-->
+    <string name="title_reminder">Remind me in…</string>
+    <string name="channel_name" translatable="false">reminder_channel</string>
+    <string name="channel_description" translatable="false">reminder_reminder</string>
+    <string name="schedule_5_seconds">5 seconds</string>
+    <string name="schedule_8_minutes">8 minutes</string>
+    <string name="schedule_1_day">1 day</string>
+    <string name="schedule_1_week">1 week</string>
+    <string name="error_applying_reminder" translatable="false">Error applying error_applying_reminder</string>
+    <string name="call_usError" translatable="false">\"ShareContactError\"</string>
+    <string name="sentTo" translatable="false">\"sent Email to ..\"</string>
+    <string name="sent_email_error" translatable="false">\"ShareEmailError\"</string>
+<!--  personal data  !-->
+    <string name="full_name" translatable="false">Mohammed Osman</string>
+    <string name="profission">Android App developer</string>
+    <string name="phone" translatable="false">0049(01)15739608650</string>
+    <string name="share" translatable="false">"soft@AndroidDeveloper</string>
+    <string name="email" translatable="false">hamoosoft@gmail.com</string>
+    <string name="my_image_desc" translatable="false">personal_image</string>
+    <string name="no_notes_message" >( the list is empty add new notes) </string>
+    <string name="empty_archive_message" >( no items in the archive )  </string>
+    <string name="restore">restore note</string>
+    <string name="notification">create notification</string>
+    <!--  personal data  !-->
+</resources>

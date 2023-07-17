@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tägliche Notizen</string>
+    <string name="archive">Archiv</string>
+    <string name="settings">Einstellungen</string>
+    <string name="details">Bearbeiten (%s)</string>
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="password">Passwort</string>
+    <string name="title">Titel</string>
+    <string name="color">Farbe</string>
+    <string name="date">Datum</string>
+    <string name="descending">Absteigend</string>
+    <string name="notes">Notizen</string>
+    <string name="typeNote">Geben Sie eine Notiz ein ...</string>
+    <string name="deleteNoteDialogTitle">Warnung!!</string>
+    <string name="deleteNoteDialogMessage">Sind Sie sicher, dass Sie (%s) löschen möchten?</string>
+    <string name="delete">löschen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="add_note_confirmation_message">Hinweis wurde erfolgreich hinzugefügt</string>
+    <string name="update_note_confirmation_message">" Hinweis wurde erfolgreich aktualisiert"</string>
+    <string name="english">" Englisch"</string>
+    <string name="language">"   Sprache"</string>
+    <string name="chooseLanguage">"    Benutzeroberfläche wählen Sprache"</string>
+    <string name="chooseMode">" Wählen Sie den Schnittstellenmodus"</string>
+    <string name="dark_mode">" Dunkler Modus"</string>
+    <string name="contact">Kontaktieren Sie uns</string>
+    <string name="call_us">AnRufen</string>
+    <string name="send_email">E-Mail</string>
+    <string name="about">Über uns</string>
+    <string name="share_app">Teilen Sie die App</string>
+    <string name="title_reminder">Erinnere mich in...</string>
+    <string name="schedule_5_seconds">5 Sekunden</string>
+    <string name="schedule_8_minutes">8 Minuten</string>
+    <string name="schedule_1_day">1 Tag</string>
+    <string name="schedule_1_week">1 Woche</string>
+    <string name="profission">Android-App-Entwickler</string>
+    <string name="no_notes_message">( Die Liste ist leer Neue Notizen hinzufügen )</string>
+    <string name="empty_archive_message">( Keine Einträge im Archiv )</string>
+    <string name="ascending">Aufsteigend</string>
+</resources>

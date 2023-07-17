@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_padding">16dp</dimen>
+    <dimen name="medium_padding">8dp</dimen>
+    <dimen name="small_padding">4dp</dimen>
+    <dimen name="dp1_padding">1dp</dimen>
+    <dimen name="color_card_size">60dp</dimen>
+    <dimen name="min_height">200dp</dimen>
+    <dimen name="extra_min_height">100dp</dimen>
+    <dimen name="min_GridSize">150dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+</resources>
